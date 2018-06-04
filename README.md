@@ -1,2 +1,2 @@
-# Data-structures-c-
+# Data-structures-c++
 data structures
